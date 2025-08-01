@@ -58,7 +58,7 @@
 
 <!-- Flame -->
 <a href="https://flame-engine.org/" target="_blank">
-<img src="https://img.shields.io/badge/Flame-FF6B00?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flame-FF6B00?style=for-the-badge&logo=flameEngine&logoColor=white"/>
 </a>
 
 <!-- FlutterFlow -->
